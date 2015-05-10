@@ -1,6 +1,6 @@
 {
   "name": "basis-fetch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,11 @@
   },
   "author": "Adrian Lansdown <npmjs@thejaronline.com> (http://adrianlansdown.com/)",
   "license": "ISC",
+  "repository" :
+  { 
+    "type" : "git"
+    , "url" : "https://github.com/yayadrian/basis-fetch"
+  }
   "dependencies": {
     "request": "^2.55.0",
     "moment": "^2.10.2",
