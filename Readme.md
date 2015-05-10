@@ -1,7 +1,13 @@
-Quick module to get one days metrics from the Basis Peak private API.
-Could break at any time.
-Sorry there are no tests or support for other data types.
+#Basis-fetch
 
+Quick module to get one days metrics from the Basis Peak private API.
+Using the Basis private API so it could break at any time.
+Tests and support for other data types coming soon.
+
+## Install
+```sh
+$ npm install basis-fetch
+```
 ## Access Token
 Username and Password thay ou use on https://app.mybasis.com/
 ```javascript
