@@ -1,0 +1,16 @@
+{
+  "name": "basis-fetch",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Lansdown <npmjs@thejaronline.com> (http://adrianlansdown.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.55.0",
+    "moment": "^2.10.2",
+    "dateformat": "^1.0.11"
+  }
+}
